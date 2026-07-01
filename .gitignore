@@ -1,0 +1,7 @@
+*.npy
+*.ann
+*.pkl
+*.keras
+final_data.csv
+__pycache__/
+.ipynb_checkpoints/
